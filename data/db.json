@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "What is html?",
+      "body": "html stands for hypertext markup language",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "What is vue js?",
+      "body": "vue is a javascript framework that can be used for frontend developer",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "title": "What is node.js?",
+      "body": "Node js adalah bagian dari javascript yang dapat digunakan di sisi server (back end)",
+      "tags": [
+        "nodejs",
+        "backend",
+        "fullstack"
+      ],
+      "id": 3
+    },
+    {
+      "title": "World need fullstack?!",
+      "body": "Ofcourse, world always need a web to make people easier to life...",
+      "tags": [
+        "fullstack",
+        "job",
+        "future"
+      ],
+      "id": 4
+    }
+  ]
+}
